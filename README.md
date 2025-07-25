@@ -1,6 +1,6 @@
 # Hi, I'm Oussama Jhimi 👋
 
-## Embedded Systems Engineer | IoT & Robotics
+## Embedded Systems Engineer | Linux & Robotics
 
 - 🔭 Currently hacking on **linux & electronics** projects  
 - 🌱 Learning **Linux & Advanced PCB Design**  
