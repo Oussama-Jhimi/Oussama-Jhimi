@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Oussama Jhimi 👋
 
-<!--
-**Oussama-Jhimi/Oussama-Jhimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Embedded Systems Engineer | IoT & Robotics
 
-Here are some ideas to get you started:
+- 🔭 Currently hacking on **STM32 & ESP32** projects  
+- 🌱 Learning **RTOS & Advanced PCB Design**  
+- 🤝 Open to collaborate on **Embedded Linux/Robotics**  
+- 💬 Ask me about **C/C++, Microcontrollers, IoT Protocols**  
+- 📫 Reach me: [oussamajhimi123@gmail.com](mailto:oussamajhimi123@gmail.com)  
+- ⚡ Fun fact: **Built a smart home system in 48h!**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ **Languages & Tools**  
+
+#### **Microcontrollers**  
+<img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white" title="STM32" /> <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white" title="ESP32" />  
+<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" title="Arduino" /> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white" title="RPi" />  
+
+#### **Programming**  
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" title="C" /> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" title="C++" />  
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" title="Python" /> <img src="https://img.shields.io/badge/Assembly-8E8E8E?logo=asm&logoColor=white" title="Assembly" />  
+
+#### **Tools & Protocols**  
+<img src="https://img.shields.io/badge/Altium_Designer-A5915F?logo=altiumdesigner&logoColor=white" title="Altium" /> <img src="https://img.shields.io/badge/Proteus-00A4E4?logo=proteus&logoColor=white" title="Proteus" />  
+<img src="https://img.shields.io/badge/I2C-000000?logo=i2c&logoColor=white" title="I2C" /> <img src="https://img.shields.io/badge/UART-008000?logo=uart&logoColor=white" title="UART" />  
+<img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" title="Qt" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" title="Firebase" />  
+
+---
+
+### 🚀 **Featured Projects**  
+- 🌿 **Plant Disease Detection** – YOLOv7 + Raspberry Pi  
+- 🔌 **Automated Test Box** – Custom PCB + Qt Interface  
+- 🏠 **Smart Home IoT** – ESP32 + Blynk  
+
+---
+
+### 📫 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/oussama-jhimi)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/Oussama-Jhimi)  
