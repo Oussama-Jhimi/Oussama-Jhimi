@@ -34,7 +34,7 @@
 ### 🚀 **Featured Projects**  
 - 🌿 **Plant Disease Detection** – YOLOv7 + Raspberry Pi  
 - 🔌 **Automated Test Box** – Custom PCB + Qt Interface  
-- 🏠 **checksum with MD5** – C+Linux 
+- 🔒 **checksum with MD5** – C+Linux 
 
 ---
 
