@@ -7,7 +7,7 @@
 - 🤝 Open to collaborate on **Embedded Linux/Robotics**  
 - 💬 Ask me about **C/C++, Microcontrollers, Python,IoT Protocols**  
 - 📫 Reach me at: [oussamajhimi123@gmail.com](mailto:oussamajhimi123@gmail.com)  
-- ⚡ Fun fact: **Built a mini ESP32 in just 48 hours!**  
+- ⚡ Fun fact: **Built a mini ESP32 in just 48 hours!**    
 
 ---
 
