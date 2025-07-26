@@ -2,11 +2,11 @@
 
 ## Embedded Systems Engineer | Linux & Robotics
 
-- 🔭 Currently hacking on **linux & electronics** projects  
+- 🔭 Currently working on **linux & electronics** 
 - 🌱 Learning **Linux & Advanced PCB Design**  
 - 🤝 Open to collaborate on **Embedded Linux/Robotics**  
 - 💬 Ask me about **C/C++, Microcontrollers, Python,IoT Protocols**  
-- 📫 Reach me: [oussamajhimi123@gmail.com](mailto:oussamajhimi123@gmail.com)  
+- 📫 Reach me at: [oussamajhimi123@gmail.com](mailto:oussamajhimi123@gmail.com)  
 - ⚡ Fun fact: **Built a mini ESP32 in just 48 hours!**  
 
 ---
