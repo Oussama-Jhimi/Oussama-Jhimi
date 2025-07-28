@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/I2C-000000?logo=i2c&logoColor=white" title="I2C" /> <img src="https://img.shields.io/badge/UART-008000?logo=uart&logoColor=white" title="UART" />  
 <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" title="Qt" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" title="Firebase" />  
 
+<img src="https://img.shields.io/badge/Animation-Tech_Embedded-00CCFF?style=for-the-badge&logo=bluetooth&logoColor=white&labelColor=gray" alt="Tech Animation">
 ---
 
 ### 🚀 **Featured Projects**  
