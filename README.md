@@ -12,9 +12,6 @@
 ---
 
 ### 🛠️ **Languages & Tools**  
-<div style="text-align: center;">
-    <img src="https://example.com/embedded-animation.gif" alt="Embedded Systems Animation" width="200" style="margin: 10px auto; display: block;">
-</div>
 
 #### **Microcontrollers**  
 <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white" title="STM32" /> <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white" title="ESP32" />  
